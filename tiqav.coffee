@@ -1,3 +1,12 @@
+# Description:
+#   Assign reviewer to github pull-request
+#
+# Dependencies:
+#   request
+#
+# Commands:
+#   hubot tiqav [keyword] - response image
+
 request = require 'request'
 
 module.exports = (robot) ->
