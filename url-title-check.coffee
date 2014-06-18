@@ -5,6 +5,12 @@
 #   "request":
 #   "cheerio":
 #
+# Configuration:
+#   None
+#
+# Commands:
+#   None
+#
 # Notes:
 #   Check URL Title /^(https?:\/\/.*)/i
 
